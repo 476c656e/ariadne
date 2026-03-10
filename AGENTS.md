@@ -4,7 +4,7 @@ Guidelines for AI agents working on the ariadne repository.
 
 ## Repository Structure
 
-WMS (WASM Markdown Store) — a self-hosted knowledge resolver for AI agent instructions.
+ariadne — a self-hosted knowledge resolver for AI agent instructions.
 
 ```
 /src              - Application source code
